@@ -1,17 +1,16 @@
-💻 #Topics
-Integrated with:
+## 👋 End-to-End Automation Testing with Cypress and Cucumber
 
- https://github.com/badeball/cypress-cucumber-preprocessor
- https://github.com/bahmutov/cypress-esbuild-preprocessor
- 
-💻 #Pre-requisites
-Before you use this project you only need to have Node Js installed in your computer.
+Multi-browser framework for End-to-End Automation Testing with Cypress 10.7, Cucumber and Page Object Model.
+The test example was performed on the "Amazon" website.
 
-https://nodejs.org/es/download/
+## ✨ Pre-requisites:
 
+- NodeJs
+- At least one of these browsers installed [Chrome, Firefox]
 
-🚀 #Install the project
-Install project dependencies with: npm i
+## 🔨 Running the project:
 
-🚀 #Run the demo:
-Open the terminal and run: npx cypress run
+1. Clone the repo
+2. CD into the `Cypress-Cucumber-Template` folder
+3. Install dependencies running 'npm install'.
+4. Run `npm test`  
